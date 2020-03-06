@@ -1,6 +1,6 @@
 ---
 layout: default
-title: subtitle1
+title: title1
 nav_order: 2
 parent: kek
 has_children: false

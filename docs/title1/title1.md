@@ -6,4 +6,4 @@ parent: kek
 has_children: false
 ---
 
-subtitle1
+title1

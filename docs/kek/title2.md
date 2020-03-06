@@ -1,9 +1,9 @@
 ---
 layout: default
-title: title3
+title: title2
 nav_order: 1
 has_children: false
 parent: kek
 ---
 
-title3
+title2
